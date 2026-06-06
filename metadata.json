@@ -1,0 +1,6 @@
+{
+  "name": "RJ TANCOM",
+  "description": "A comprehensive organization management system for tracking income, expenses, attendance, and member dues with a clean Bengali interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
